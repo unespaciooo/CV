@@ -1,3 +1,3 @@
-# CV
-Aquí encontrarás mi CV Digital Actualizado (Index.html)
+# Currículum
+Aquí encontrarás mi CV Digital Actualizado (CV.html)
 > CSS Incrustado
